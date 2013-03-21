@@ -167,9 +167,5 @@ twit.stream('user', {track:'nodejs'}, function(stream) {
 
 ## Community
 
-Forked from @AvianFlu's [seemingly dead
-repo](https://github.com/AvianFlu/ntwitter),
-with contributions from various PRs.
-
 All contributors are listed in the
 [`package.json`](https://github.com/passcod/mtwitter/blob/master/package.json).
